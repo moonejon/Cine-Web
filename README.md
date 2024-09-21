@@ -1,2 +1,2 @@
-# Cine-Web
+# Ciné-Web
 Ciné Web Client
